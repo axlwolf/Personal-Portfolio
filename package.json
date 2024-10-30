@@ -1,5 +1,5 @@
 {
-  "name": "BasicHTMLWebsite",
+  "name": "Personal Portfolio",
   "author": "axlwolf",
   "version": "1.0.0",
   "scripts": {
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axlwolf/BasicHTMLWebsite.git"
+    "url": "git+https://github.com/axlwolf/Personal-Portfolio.git"
   },
-  "homepage": "https://github.com/axlwolf/BasicHTMLWebsite"
+  "homepage": "https://github.com/axlwolf/Personal-Portfolio"
 }
