@@ -1,1 +1,1 @@
-.nav.menu{align-items:center;display:flex;justify-content:space-between;padding:.5em 1.5em}.nav.menu li{display:inline-block}
+.nav.menu{display:block}.nav.menu ul{text-align:center}.nav.menu li{display:inline-block;margin:1em 0}.nav.menu a{display:block;text-align:center;width:100%}@media (min-width:768px){.nav.menu{align-items:center;display:flex;justify-content:space-between;padding:.5em 1.5em}.nav.menu li{display:inline-block}.nav.menu a{display:inline;width:auto}}
