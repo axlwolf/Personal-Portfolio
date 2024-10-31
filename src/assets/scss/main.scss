@@ -1,8 +1,12 @@
 body {
   background-color: #343434;
   color: white;
-  font-size: 1rem;
+  font-size: 100%;
   min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
 }
 
 main {
@@ -74,4 +78,15 @@ h4 code,
 h5 code,
 h6 code {
   font-size: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
